@@ -13,7 +13,7 @@ Change the `?username=` value to your LeetCode username.
 
 Which will appear as:
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
+![Ausuntha’s LeetCode stats](https://leetcard.jacoblin.cool/ausuntha_maria?theme=dark&font=Nunito&ext=heatmap)
 
 ## Themes
 You can customize your card with themes! There are currently 2 themes available.
@@ -27,7 +27,8 @@ Ex.
 
 Which will appear as:
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![Ausuntha’s LeetCode stats](https://leetcard.jacoblin.cool/ausuntha_maria?theme=dark&font=Nunito&ext=heatmap)
+
 
 ## Themes
 If you have an account on `https://leetcode.cn/` (LeetCode China),
